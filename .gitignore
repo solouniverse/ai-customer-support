@@ -12,5 +12,7 @@ wheels/
 
 .env
 credentials.json
+session.log
+commands.txt
 node_modules/
 dashboard/dist/
