@@ -1,3 +1,4 @@
 {
-  "telemetry.telemetryLevel": "all"
+  "telemetry.telemetryLevel": "all",
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv-windows/Scripts/python.exe"
 }
