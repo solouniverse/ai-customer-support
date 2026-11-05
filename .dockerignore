@@ -1,0 +1,11 @@
+.env
+.venv
+.venv-windows
+.venv-linux
+.git
+credentials.json
+supabase
+evals
+knowledge_base
+dashboard/node_modules
+dashboard/dist
